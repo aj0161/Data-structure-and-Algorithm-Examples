@@ -1,9 +1,9 @@
 import javax.lang.model.element.NestingKind;
 
 public class Link {
-
+    //This is the main class for ArrayItems.java, Sorting.java
     public static void main(String[] args) {
-
+    
 
         Sorting sortingmethod = new Sorting();
         int[] array = {24,2,45,20,56,75,2,56,99,53,12};
