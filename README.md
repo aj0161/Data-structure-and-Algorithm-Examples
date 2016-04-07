@@ -9,3 +9,6 @@
 1. TODO: implementation
 
 #MainClass.java - This class implements basic features of Linkedlist, QuickSort, QuickSelect, and Arrays related code. 
+1. ArrayItems.java
+2. Sorting.java
+3. TODO: CleanUp
