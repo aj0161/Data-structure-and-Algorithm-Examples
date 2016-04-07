@@ -1,6 +1,4 @@
-/**
- * Created by joshajay on 2/1/2016.
- */
+
 public class BST {
 
     static BSTNode root;
