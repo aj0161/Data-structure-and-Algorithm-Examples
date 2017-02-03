@@ -1,4 +1,4 @@
-# aj.github.Al
+
 #Bellman Ford alogirthm checklist
 
 1. implementation is completed
