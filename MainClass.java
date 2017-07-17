@@ -1,14 +1,11 @@
 import javax.lang.model.element.NestingKind;
 
 public class Link {
-    //This is the main class for ArrayItems.java, Sorting.java
-    public static void main(String[] args) {
     
-
+    //This is the main class for ArrayItems.java, Sorting.java
+    public static void main(String[] args) { 
         Sorting sortingmethod = new Sorting();
         int[] array = {24,2,45,20,56,75,2,56,99,53,12};
-
-
         BST.addNode(1,"first");
         BST.addNode(2,"second");
         BST.addNode(3,"Third");
@@ -20,17 +17,15 @@ public class Link {
         int lowerBound=0;
         int higherBound=array.length -1;
         int findKthLargestElement = 6;
+        
         myArrayItems.FindKthElement(array, lowerBound, higherBound,findKthLargestElement);
-
         myArrayItems. FindDuplicate(myArray1);
         myArrayItems.Removeduplicates(myArray1);
-
         myArrayItems.RepeatTogether();
-
         myArrayItems. IntersectTwoArray();
         myArrayItems.reversearray();
 
-                LinkedList List = new LinkedList();
+        LinkedList List = new LinkedList();
         List.InsertFirst(0);
         List.InsertFirst(-1);
         List.InsertFirst(-2);
